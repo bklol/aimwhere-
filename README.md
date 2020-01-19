@@ -1,4 +1,5 @@
 # aimwhere-
+
 aimbot//https://forums.alliedmods.net/showthread.php?p=2423564
 
 //
@@ -7,11 +8,15 @@ autostrafer//https://forums.alliedmods.net/showthread.php?p=2567491
 
 //
 
-autobunnyhop//bklol
+thirdperson//https://github.com/dvarnai/store-plugin/blob/master/addons/sourcemod/scripting/thirdperson.sp
 
 //
 
-glow//bklol
+自动连跳//bklol
+
+//
+
+透视/ESP//bklol
 
 //
 
